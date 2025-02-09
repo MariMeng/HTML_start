@@ -1,0 +1,15 @@
+Explicando as tags
+
+pt-br 
+
+!DOCTYPE é o paramêtro utilziado para criar o documento em html, ou seja, para todos seus códigos em HTML, 
+o !DOCTYPE é o seu primeiro passo.
+
+Tags: 
+
+<html>
+<head>
+<meta>
+<hr>
+<body>
+<p>
